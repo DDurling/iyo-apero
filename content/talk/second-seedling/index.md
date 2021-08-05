@@ -12,5 +12,3 @@ layout: single
 categories:
 - meetup
 ---
-
-{{< here >}}

@@ -23,8 +23,6 @@ links:
   url: https://github.com/apreshill/bakeoff
 ---
 
-{{< here >}}
-
 ![Formspree Logo](formspree-logo.png)
 
 ## [Formspree](https://formspree.io) makes it easy to receive submissions from HTML forms on your static website.
