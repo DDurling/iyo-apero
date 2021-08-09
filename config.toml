@@ -78,14 +78,6 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://github.com/DDurling/"
   [[params.social]]
-      icon      = "facebook" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.facebook.com/daniel.durling/"
-  [[params.social]]
-      icon      = "instagram" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.instagram.com/_daniel_durling/"
-  [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://twitter.com/_daniel_durling/"
@@ -93,6 +85,14 @@ enableEmoji = true
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://www.linkedin.com/in/danieldurling/"
+  [[params.social]]
+      icon      = "facebook" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.facebook.com/daniel.durling/"
+  [[params.social]]
+      icon      = "instagram" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.instagram.com/_daniel_durling/"
   [[params.social]]
       icon      = "rss" # icon name without the 'fa-'
       icon_pack = "fas"
