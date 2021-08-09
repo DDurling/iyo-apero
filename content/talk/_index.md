@@ -17,10 +17,7 @@ sidebar:
     This is a list for your talks, workshops, or 
     other events with a time, date, and place. 
     Even this sidebar offers a ton of customizations.
-    
-    Check out the _index.md file in the /talk folder 
-    to edit this content. 
-  author: "The R Markdown Team @RStudio"
+  author: "Daniel Durling"
   text_link_label: Subscribe via RSS
   text_link_url: /talk/index.xml
   show_sidebar_adunit: false # show ad container
