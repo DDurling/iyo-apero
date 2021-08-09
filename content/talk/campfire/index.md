@@ -12,8 +12,6 @@ location: "Sydney, Australia"
 draft: true
 # layout options: single, single-sidebar
 layout: single
-categories:
-- workshop
 links:
 - icon: door-open
   icon_pack: fas
