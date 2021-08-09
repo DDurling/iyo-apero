@@ -1,7 +1,7 @@
 ---
 title: "Daniel Durling"
 subtitle: "Data Scientist @ Bank of England"
-description: "I am a data scientist @ the Bank of England. /n
+description: "I am a data scientist @ the Bank of England. \n
 
 I enjoying helping people understand the world better. At work this can involve automating pipelines, forecasting, analysing text or visualising data. If you too are interested in these things, please get it touch!"
 date: 2021-08-01T18:27:33-06:00
