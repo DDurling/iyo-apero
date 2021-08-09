@@ -5,15 +5,15 @@ role: "Data Scientist @ Bank of England"
 avatar_shape: rounded # circle, square, rounded
 show_social_links: true # specify social accounts in site config
 show_audio_link: true
-audio_link_label: "How to say my name"
-link_list_label: "Interests" # bookmarks, elsewhere, etc.
+audio_link_label: "How to pronounce my name"
+link_list_label: "Check out these links:" # bookmarks, elsewhere, etc.
 link_list:
-- name: Paris
-  url: https://en.wikipedia.org/wiki/Paris
-- name: Pastries
-  url: https://en.wikipedia.org/wiki/Pastry
-- name: People
-  url: https://en.wikipedia.org/wiki/People
+- name: Rapha Manchester
+  url: https://www.rapha.cc/gb/en/clubhouses/manchester
+- name: All Elite Wrestling
+  url: https://www.allelitewrestling.com/
+- name: My partner's blog
+  url: https://hatwell.github.io/
 ---
 
 ** index doesn't contain a body, just front matter above.
