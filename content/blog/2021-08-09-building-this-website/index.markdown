@@ -51,9 +51,9 @@ I also managed to break the "talks" section which comes as standard (at some poi
 
 ### buying a domain & setting it up
 
-Once I had deployed to netlify as the guide suggested and had played around with some of the options I knew I wanted my own domain so I bought [This site](https://danieldurling.com) from [Google domains[(https://domains.google.com/).
+Once I had deployed to netlify as the guide suggested and had played around with some of the options I knew I wanted my own domain so I bought [This site](https://danieldurling.com) from [Google domains](https://domains.google.com/).
 
-Then I headed back to nelify to add in a custom URL. Once I added it I needed to add in some netlify DNS to my google domain to stop there being a security warning when I accessed my website. In order to do that I followed this [guide](https://dev.to/lost_semicolon/netlify-and-google-domains-hm3)
+Then I headed back to nelify to add in a custom URL. Once I added it I needed to add in some netlify DNS to my google domain to stop there being a security warning when I accessed my website. In order to do that I followed this [guide](https://dev.to/lost_semicolon/netlify-and-google-domains-hm3).
 
 ## Still to do
 
