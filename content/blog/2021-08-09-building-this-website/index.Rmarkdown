@@ -6,7 +6,8 @@ layout: single-sidebar
 draft: false
 slug: []
 categories: 
-- testing
+- R
+- Website
 tags: 
 - personal
 ---
@@ -60,4 +61,5 @@ Then I headed back to nelify to add in a custom URL. Once I added it I needed to
  - Fix talks section
  - Dig into YAML options (Think I will add a draft: true as default so I can work on posts before deploying)
  - Decide on if I want to use .md, .markdown, .Rmd or .Rmarkdown as default (and what the advantages are if... if any)
+ - move / rename repo on GitHub (so it is obvious which one is for my website)
  
