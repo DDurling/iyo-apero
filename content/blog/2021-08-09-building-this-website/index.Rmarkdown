@@ -1,11 +1,49 @@
 ---
-title: BUilding this website
+title: Building this website
 author: Daniel Durling
 date: '2021-08-09'
 draft: true
 slug: []
-categories: []
-tags: []
+categories: 
+- testing
+tags: 
+- personal
 ---
 
-This post will be where I write up how I made this website.
+## How I made this website
+
+ "good artists borrow, great artists steal." - Picasso
+ 
+I built this website by following the  work of others, and only when I ran into issues did I have to do anything original. So if you wish to build a website using blogdown (and if you use R you should!) then I would recommend follwing this guide:
+
+here - https://iyo-rstudio-global.netlify.app/collection/
+
+It was a two day course ran by Allison reed: here blog here) and there is a video of it too (although I did not watch it I just followed the site).
+
+also if you are interested in why you should have a website check out there links
+
+here - https://www.youtube.com/watch?v=acBJsjCqgtM
+
+
+
+## Issues I encountered
+
+### buying a domain & setting it up
+
+Once I had deployed to netlify as the guide suggested and had played around with some of the options I knew I wanted my own domain so I bought danieldurling.com from https://domains.google.com/
+
+Then I headed back to nelify to add in a custom URL. Once I added it I needed to add in some Nefliy DNS to my google domain to stop there being a security warning when I accessed my website. In order to do that I followed this guide:
+
+https://dev.to/lost_semicolon/netlify-and-google-domains-hm3
+
+
+### Layout
+
+So I could reference all the example posts but them not be seen on my blog I marked them all as draft: true in the YAML header of each post.
+
+
+
+
+
+ 
+ 
