@@ -4,6 +4,7 @@ author: Daniel Durling
 date: '2021-08-09'
 layout: single-sidebar
 draft: false
+summary: "How I built this website, and the workshops / blogposts that helped me."
 slug: []
 categories: 
 - R
@@ -49,6 +50,8 @@ At this point it was just a matter of going through the code and following the s
 So I could reference all the example posts but them not be seen on my blog I marked them all as `draft: true` in the YAML header of each post.
 
 I also managed to break the "talks" section which comes as standard (at some point the website would not deploy). I think need to look into why / how that happened but in the short term I have decided to just remove it for now.
+
+adding a `summary: ` into the YAML is the text that appears on the "Blog" page. worth adding to every blogpost.
 
 ### buying a domain & setting it up
 
