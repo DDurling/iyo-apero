@@ -3,7 +3,7 @@ title: Building this website
 author: Daniel Durling
 date: '2021-08-09'
 layout: single-sidebar
-draft: true
+draft: false
 slug: []
 categories: 
 - testing
