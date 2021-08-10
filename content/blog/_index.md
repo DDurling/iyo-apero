@@ -12,14 +12,9 @@ layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: A Sidebar for Your Thoughts
-  description: |
-    This is a fully featured blog that supports categories,
-    tags, series, and pagination. Even this sidebar offers 
-    a ton of customizations.
-    
-    Check out the _index.md file in the /blog folder 
-    to edit this content. 
+  title: My blog
+  description: 
+    This blog will be the public face of my internal thoughts.
   author: "Daniel Durling"
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
