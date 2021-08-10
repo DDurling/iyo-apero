@@ -1,5 +1,5 @@
 ---
-title: A Project Portfolio To Grow
+title: A Project Portfolio (To add to)
 description: "Give your projects a place to live online."
 author: "Daniel Durling"
 show_post_thumbnail: true
