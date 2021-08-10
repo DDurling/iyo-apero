@@ -6,8 +6,10 @@ layout: single-sidebar
 slug: []
 categories: 
 - testing
+- testing2
 tags: 
 - personal
+- delete
 ---
 
 Nothing fancy to see here, just testing deployment.
