@@ -1,7 +1,7 @@
 ---
 title: Building this website
 author: Daniel Durling
-date: '2021-08-09'
+date: '2021-08-10'
 layout: single-sidebar
 draft: false
 summary: "How I built this website, and the workshops / blogposts that helped me."
