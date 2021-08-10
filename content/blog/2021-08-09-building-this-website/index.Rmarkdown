@@ -51,13 +51,13 @@ So I could reference all the example posts but them not be seen on my blog I mar
 
 I also managed to break the "talks" section which comes as standard (at some point the website would not deploy). I think need to look into why / how that happened but in the short term I have decided to just remove it for now.
 
-adding a `summary: ` into the YAML is the text that appears on the "Blog" page. worth adding to every blogpost.
+adding a `summary: ` into the YAML is the text that appears on the "Blog" page. Worth adding to every blogpost.
 
 ### buying a domain & setting it up
 
 Once I had deployed to netlify as the guide suggested and had played around with some of the options I knew I wanted my own domain so I bought [This site](https://danieldurling.com) from [Google domains](https://domains.google.com/).
 
-Then I headed back to nelify to add in a custom URL. Once I added it I needed to add in some netlify DNS to my google domain to stop there being a security warning when I accessed my website. In order to do that I followed this [guide](https://dev.to/lost_semicolon/netlify-and-google-domains-hm3).
+Then I headed back to netlify to add in a custom URL. Once I added it I needed to add in some netlify DNS to my google domain to stop there being a security warning when I accessed my website. In order to do that I followed this [guide](https://dev.to/lost_semicolon/netlify-and-google-domains-hm3).
 
 ## Still to do
 
