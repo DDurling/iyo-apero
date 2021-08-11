@@ -1,7 +1,7 @@
 baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Personal website of Daniel Durling"
+title = "My personal website"
 author = "Daniel Durling"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""

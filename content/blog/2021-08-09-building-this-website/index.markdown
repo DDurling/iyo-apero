@@ -59,6 +59,16 @@ Once I had deployed to netlify as the guide suggested and had played around with
 
 Then I headed back to netlify to add in a custom URL. Once I added it I needed to add in some netlify DNS to my google domain to stop there being a security warning when I accessed my website. In order to do that I followed this [guide](https://dev.to/lost_semicolon/netlify-and-google-domains-hm3).
 
+### Getting rid of stock pictures
+
+When I my [website](https://www.danieldurling.com/) an image will also appear in social media. However the images associated with each page wasn't what I wanted. I found that the main page was displaying an image in the staic/img folder called arbre.jpg, and other pages were displaying other images from that folder. 
+
+As I couldn't see anywhere that referenced arbre.jpg I simply replaced it with an image I wanted with the same name (I know it isn't ideal but...) which fixed it for some pages but not others.
+
+I then realised that in the config.toml file there was a "sharing_image" defined, which edited to be the image I have on my home page.
+
+Finally I had to wait for some caching to catch up with my changes (I was doing lots of my testing in telegram and they have a dedicated bot for clearing that sort of thing [here](https://t.me/WebpageBot). 
+
 ## Still to do
 
  - Fix talks section
