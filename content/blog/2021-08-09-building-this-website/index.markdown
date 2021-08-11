@@ -17,7 +17,7 @@ tags:
 
 > good artists borrow, great artists steal - _Picasso_
  
-This feels like a good excuse to use the above quote. I built this website by following the work of others, and only when I ran into issues did I have to do anything original. So if you wish to build a website using blogdown (and if you use R you should!) then I would recommend reading this two day[introduce yourself online workshop](https://iyo-rstudio-global.netlify.app/collection/). This two day workshop was ran by [Alison HIll](https://alison.rbind.io/) and there is a [YouTube Video](https://www.youtube.com/watch?v=RksaNh5Ywbo&list=WL&index=10&t=1s) of it too (although I did not watch it I just followed the site).
+This feels like a good excuse to use the above quote. I built this website by following the work of others, and only when I ran into issues did I have to do anything original. So if you wish to build a website using blogdown (and if you use R you should!) then I would recommend reading this two day[introduce yourself online workshop](https://iyo-rstudio-global.netlify.app/collection/). This two day workshop was run by [Alison HIll](https://alison.rbind.io/) and there is a [YouTube Video](https://www.youtube.com/watch?v=RksaNh5Ywbo&list=WL&index=10&t=1s) of it too (although I did not watch it I just followed the site).
 
 If you are interested in why you should have a website check out this [Ali Abdaal video on making a website](https://www.youtube.com/watch?v=acBJsjCqgtM).
 
@@ -51,7 +51,7 @@ So I could reference all the example posts but them not be seen on my blog I mar
 
 I also managed to break the "talks" section which comes as standard (at some point the website would not deploy). I think need to look into why / how that happened but in the short term I have decided to just remove it for now.
 
-adding a `summary: ` into the YAML is the text that appears on the "Blog" page. Worth adding to every blogpost.
+If you add a `summary: ` into the YAML section of a post. that summary is the text that appears on the "Blog" page. I think this is worth adding to every blog post.
 
 ### buying a domain & setting it up
 
@@ -61,7 +61,7 @@ Then I headed back to netlify to add in a custom URL. Once I added it I needed t
 
 ### Getting rid of stock pictures
 
-When I my [website](https://www.danieldurling.com/) an image will also appear in social media. However the images associated with each page wasn't what I wanted. I found that the main page was displaying an image in the staic/img folder called arbre.jpg, and other pages were displaying other images from that folder. 
+When I my [website](https://www.danieldurling.com/) an image will also appear in social media. However the images associated with each page wasn't what I wanted. I found that the main page was displaying an image in the static/img folder called arbre.jpg, and other pages were displaying other images from that folder. 
 
 As I couldn't see anywhere that referenced arbre.jpg I simply replaced it with an image I wanted with the same name (I know it isn't ideal but...) which fixed it for some pages but not others.
 
@@ -75,4 +75,7 @@ Finally I had to wait for some caching to catch up with my changes (I was doing 
  - Dig into YAML options (Think I will add a draft: true as default so I can work on posts before deploying)
  - Decide on if I want to use .md, .markdown, .Rmd or .Rmarkdown as default (and what the advantages are if... if any)
  - move / rename repo on GitHub (so it is obvious which one is for my website)
+ - add the contact form back in
+ = what other options() do I want to add to the .Rprofile?
+ - remember to use slugs to lock down the URL even if the title of the post changes
  

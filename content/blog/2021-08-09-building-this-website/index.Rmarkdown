@@ -77,4 +77,5 @@ Finally I had to wait for some caching to catch up with my changes (I was doing 
  - move / rename repo on GitHub (so it is obvious which one is for my website)
  - add the contact form back in
  = what other options() do I want to add to the .Rprofile?
+ - remember to use slugs to lock down the URL even if the title of the post changes
  
