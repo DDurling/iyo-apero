@@ -25,7 +25,12 @@ I will be embedding this [video](https://www.youtube.com/watch?v=vYwXMnC03I4) of
 
 All you need to do is use Hugo short code and then the video name:
 
-`{{< youtube vYwXMnC03I4 >}}`
+{{\< youtube vYwXMnC03I4 \>}}
+
+(in order to display the above rather than call the shortcode I had to add a `\` before the `<` and then `>` to stop them being special characters.).
+
+Here is what it looks like when we call the shortcode:
+
 
 {{< youtube vYwXMnC03I4 >}}
 
