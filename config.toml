@@ -29,6 +29,7 @@ enableEmoji = true
     
 [params]
   orgName = "Daniel Durling" # "RStudio"
+  draft = true
   orgLocal = ""  # "Anywhere"
   description = "" #"A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "/img/favicon.ico"
