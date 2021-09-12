@@ -3,7 +3,7 @@ title: My Blog (work in progress)
 description: |
   This is a fully featured blog that supports categories, 
   tags, series, and pagination.
-author: "Daniel Durling3"
+author: "Daniel Durling"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
@@ -22,7 +22,7 @@ sidebar:
 
 # set up common front matter for all pages inside blog/
 cascade:
-  author: "Daniel Durling4"
+  author: "Daniel Durling"
   show_author_byline: true
   show_post_date: true
   show_disqus_comments: false # see disqusShortname in site config
