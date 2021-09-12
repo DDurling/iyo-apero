@@ -25,8 +25,6 @@ cascade:
   author: "Daniel Durling4"
   show_author_byline: true
   show_post_date: true
-  draft: true
-  summary: "test"
   show_disqus_comments: false # see disqusShortname in site config
   # for single-sidebar layout
   sidebar:
