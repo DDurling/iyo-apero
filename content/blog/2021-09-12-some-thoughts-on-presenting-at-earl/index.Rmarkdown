@@ -26,6 +26,8 @@ I hope some of the people who heard my talk took something away from it, and if 
 
 I will stick the slides up here once I get official sign off from work :-)
 
+P.S. Thanks to Mango Solutions for the delightful snacks they sent me (see photo on this post)
+
 
 
 
