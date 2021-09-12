@@ -1,0 +1,34 @@
+---
+title: Some thoughts on presenting at EARL
+author: Daniel Durling
+date: '2021-09-12'
+layout: single-sidebar
+draft: false
+summary: "A short post on achieving my goal of presenting at EARL"
+slug: thoughts-on-presenting-at-earl
+categories:
+  - R
+tags:
+  - personal
+---
+
+# Some thoughts on presenting at EARL
+
+Now A few days have passed I wanted to write down some thoughts on having presented at EARL 2021 on Friday. 
+
+EARL is my favourite conference. I have learnt so much from the training that is offered and from the talks too. 
+
+I don't do too much external presenting, but I have wanted to present at EARL since I first attended. On Friday I finally achieved that. It felt really good to present alongside so many great speakers on the day. 
+
+I haven't really talked about it much but I was off for a while over the summer and having this talk as something to aim for mentally was really helpful to me. 
+
+A special thanks to Scott and Luisa for helping me review the slides and work on the presentation.
+
+I hope some of the people who heard my talk took something away from it, and if anyone has any questions about it I am happy to chat about it.
+
+I will stick the slides up here once I get official sign off from work :-)
+
+
+
+
+
